@@ -1,11 +1,3 @@
-body{
+*{
     background-color: rgb(56, 56, 56);
-}
-a.abutton{
-    -webkit-appearance: button;
-    -moz-appearance: button;
-    appearance: button;
-
-    text-decoration: none;
-    color: initial;
 }
